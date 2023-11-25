@@ -1,9 +1,12 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/gpdWe0-s)
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub (Edited by Alavia Batool)
+
+## Completion of the course
+I have read the whole Read Me file provided and have completed the course. Thank you mam for making us familiar with GitHub.
 
 ## 🤓 Course overview and learning outcomes 
 
-The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
+The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀 
 
 ## :octocat: Git and GitHub
 
