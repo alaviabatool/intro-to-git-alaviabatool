@@ -2,7 +2,7 @@
 # :wave: The Basics of GitHub (Edited by Alavia Batool)
 
 ## Completion of the course
-I have read the whole Read Me file provided and have completed the course. Thank you mam for making us familiar with GitHub.
+I have read the whole Read Me file provided and have completed the course. Thank you mam for making us familiar with GitHub. I think I am liking it.
 
 ## 🤓 Course overview and learning outcomes 
 
